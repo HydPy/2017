@@ -2,8 +2,7 @@
   date: "2017-10-07"
   dateReadable: "October 7th"
   tracks: 
-    - {title: "Workshop 1", color: "#90be4e"}
-    - {title: "Workshop 2", color: "#03a9f4"}
+    - {title: "Workshops", color: "#90be4e"}
   timeslots:
     - {
         startTime: "09:00",
@@ -13,7 +12,7 @@
     - {
         startTime: "09:30",
         endTime: "12:30",
-        sessionIds: [008]
+        sessionIds: [008, 009]
     }
     - {
         startTime: "12:30",
@@ -23,7 +22,7 @@
     - {
         startTime: "13:30",
         endTime: "16:30",
-        sessionIds: [009]
+        sessionIds: [008, 009]
     }
 
 - 
