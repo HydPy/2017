@@ -89,7 +89,7 @@
   video: ""
 -
   id: 008
-  title: "Workshop I - Internet Of Things using Raspberry Pi"
+  title: "Workshop I - Embedded Linux Device Interfacing with Python"
   description: "Workshop - upcoming."
   subtype: workshop
   speakers: [6]

@@ -58,7 +58,7 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/anandology"}
-    - {name: "site", link: "http://anandology.com/"}
+    - {name: "site", link: "http://anandology.com"}
 
 -
   id: 5
@@ -71,19 +71,22 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/chkumar246"}
-    - {name: "site", link: "http://chandankumar.dgplug.org/"}
+    - {name: "site", link: "http://chandankumar.dgplug.org"}
 
 -
   id: 6
   name: "Vijay"
   surname: "Kumar"
   company:
-    - {name: "TBA", title: "TBA"}
-  bio: "TBA"
-  thumbnailUrl:
+    - {name: "Zilogic Systems", title: "Embedded Software Developer"}
+  bio: "Vijay is  an embedded software developer and trainer by profession. He conducts training in various topics related to Embedded Systems, Linux and Python.
+        At his current company, Zilogic Systems, they have helped several companies, in the Chennai region, migrate their firmware based embedded products to Linux.<br>
+        He also co-ordinates the activities of Chennaipy. In the past 5 years, he has done over 50 talks at Chennaipy. His work at Chennaipy was recognized by the PSSI, with the Kenneth Gonsalves Award, for the year 2015."
+  thumbnailUrl: vijay_kumar.jpg
   rockstar: false
   social:
-    - {name: "", link: ""}
+    - {name: "twitter", link: "https://twitter.com/bravegnu"}
+    - {name: "site", link: "http://www.bravegnu.org"}
 
 -
   id: 7
@@ -104,7 +107,7 @@
   rockstar: false
   social:
     - {name: "twitter", link: "https://twitter.com/dorait"}
-    - {name: "site", link: "http://littlebitsofknowledge.com/"}
+    - {name: "site", link: "http://littlebitsofknowledge.com"}
 
 
   
