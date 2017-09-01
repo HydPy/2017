@@ -18,7 +18,7 @@
   group: "In-Kind Sponsors"
   elements:
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains-variant-4.svg"}
-    - {name: "Amazon", description: "Amazon", link: "https://www.amazon.in/b/ref=footer_gw_m_b_corporate?ie=UTF8&node=1592138031", imageUrl: "Amazon_logo_plain.svg"}
+    - {name: "Amazon Web Services", description: "Amazon Web Services", link: "https://aws.amazon.com", imageUrl: "AmazonWebservices_Logo.svg"}
 
 - 
   group: "T-Shirt Sponsor"
