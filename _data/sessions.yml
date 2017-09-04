@@ -4,23 +4,27 @@
   place: "Hall"
   service: true
   description: "Collect your tags"
+
 -
   id: 307
   title: "Tea/Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
+
 -
   id: 308
   title: "Feedback"
   place: "Hall"
   service: true
   description: "Feedback on the conference"
+
 -
   id: 503
   title: "Lunch Break"
   place: "Dining room"
   service: true
+
 -
   id: 001
   title: "Keynote Session 1"
@@ -28,27 +32,29 @@
   subtype: keynote
   speakers: [1]
   language: en
-  complexity: "Intermediate"
-  #video: ""
+
 -
   id: 002
-  title: "Track Session 1"
+  title: "Track Session"
   description: "Track session"
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate"
+  #complexity: ""
+  #presentation: ""
   #video: ""
+
 -
   id: 003
-  title: "Track Session 2"
+  title: "Track Session"
   description: "Track session"
   subtype: presentation
   speakers: [5]
   language: en
-  complexity: "Intermediate"
-  presentation: ""
+  #complexity: ""
+  #presentation: ""
   #video: ""
+
 -
   id: 004
   title: "Keynote Session 2"
@@ -56,8 +62,7 @@
   subtype: keynote
   speakers: [2]
   language: en
-  complexity: "Intermediate"
-  #video: ""
+
 -
   id: 005
   title: "Track Session"
@@ -65,9 +70,10 @@
   subtype: presentation
   speakers: []
   language: en
-  complexity: "Intermediate"
-  presentation: ""
+  #complexity: "Intermediate"
+  #presentation: ""
   #video: ""
+
 -
   id: 006
   title: "Lightning Talks"
@@ -75,9 +81,7 @@
   subtype: presentation
   speakers: []
   language: en
-  complexity: "Intermediate"
-  presentation: ""
-  #video: ""
+
 -
   id: 007
   title: "Keynote Session 3"
@@ -85,17 +89,19 @@
   subtype: keynote
   speakers: [3]
   language: en
-  complexity: "Intermediate"
-  #video: ""
+
 -
   id: 008
   title: "Workshop I - Embedded Linux Device Interfacing with Python"
-  description: "Workshop - Embedded Linux Device Interfacing with Python"
+  description: "The objective of the workshop is to understand how various sensors and actuators are accessed and controlled from a Linux based embedded system.<br/>
+                This will be a starting point for people who want to build connected and IoT enabled embedded systems using Linux.<br/><br/>
+                Embedded Systems are no longer restricted to firmware developers. With Linux being used in many embedded systems, Java and Python developers can also build useful products using these systems.<br/>
+                This workshop will help application developers learn how to interface with the sensors and actuators using interfaces like Serial, I2C, GPIO, PWM and ADC, from a high level language like Python.<br/>"
   subtype: workshop
   speakers: [6]
   language: en
-  complexity: "Intermediate"
-  #video: ""
+  complexity: "Begineer"
+
 -
   id: 009
   title: "Workshop II - Time Series Analysis in Python - With Applications of Machine Learning Algorithms"
@@ -104,14 +110,13 @@
   speakers: [2]
   language: en
   complexity: "Intermediate"
-  #video: ""
 
 -
   id: 010
   title: "Workshop II - AI Based ChatBot"
-  description: "Workshop - AI Based ChatBot"
+  description: "1. Understand how chatbots work.<br/>
+                2. Learn to build a simple bot."
   subtype: workshop
   speakers: [7]
   language: en
   complexity: "Intermediate"
-  #video: ""
