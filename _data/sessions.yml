@@ -98,10 +98,10 @@
   video: ""
 -
   id: 009
-  title: "Workshop II - Morning Session : TBA"
-  description: "Workshop - upcoming."
+  title: "Workshop II - Time Series Analysis in Python - With Applications of Machine Learning Algorithms"
+  description: "This workshop focuses on the use of Python, NumPy, pandas & scikit-learn for (financial) time series analysis. It starts with the basics, addresses some advanced topics in the context of performance and also illustrates the application of machine learning algorithms to the prediction of (financial) time series."
   subtype: workshop
-  speakers: []
+  speakers: [2]
   language: en
   complexity: "Intermediate"
   video: ""
