@@ -139,21 +139,7 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Conference"
-  price: "800"
-  priceCurrency: "INR"
-  ticketsNumber: "250"
-  ribbon: "-20%"
-  featured: true
-  buyButtonLink: "https://in.explara.com/e/pyconf-hyderabad-2017/checkout"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Conference Ticket"
-  ticketContentList: ["HydPy Conf tickets", "", ""]
-  validFrom: "2017-08-10T10:00"
-  validThrough: "2017-10-05T23:59"
-  disabled: false
- -
-  name: "Workshop I / Workshop II"
+  name: "Workshop (Day 1)"
   price: "500"
   priceCurrency: "INR"
   ticketsNumber: "100"
@@ -161,8 +147,22 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://in.explara.com/e/pyconf-hyderabad-2017/checkout"
   buyButtonText: "Buy Now"
-  additionalInfo: "Level: Workshop I - Beginner Session / Workshop II - Advanced Session"
+  additionalInfo: "<a href='/schedule/#2017-10-07' target='_blank'>Workshop I / Workshop II</a>"
   ticketContentList: ["HydPy Conf Workshop tickets", "", ""]
+  validFrom: "2017-08-10T10:00"
+  validThrough: "2017-10-05T23:59"
+  disabled: false
+ -
+  name: "Conference (Day 2)"
+  price: "800"
+  priceCurrency: "INR"
+  ticketsNumber: "250"
+  ribbon: "-20%"
+  featured: true
+  buyButtonLink: "https://in.explara.com/e/pyconf-hyderabad-2017/checkout"
+  buyButtonText: "Buy Now"
+  additionalInfo: "<a href='/schedule/#2017-10-08' target='_blank'>Conference Ticket</a>"
+  ticketContentList: ["HydPy Conf tickets", "", ""]
   validFrom: "2017-08-10T10:00"
   validThrough: "2017-10-05T23:59"
   disabled: false
