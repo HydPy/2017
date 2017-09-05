@@ -7,17 +7,17 @@
 - 
   group: "Gold Sponsors"
   elements:
-    - {name: "Itversity", description: "Itversity", link: "http://www.itversity.com", imageUrl: "itversity_logo.svg"}
+    - {name: "Itversity", description: "Itversity", link: "http://www.itversity.com", imageUrl: "itversity_logo.png"}
 
 - 
   group: "Silver Sponsors"
   elements:
-    - {name: "Pipal Academy", description: "Pipal Academy", link: "https://pipal.in", imageUrl: "pipal_academy.jpg"}
+    - {name: "Pipal Academy", description: "Pipal Academy", link: "https://pipal.in", imageUrl: "pipal_academy_logo.png"}
 
 - 
   group: "In-Kind Sponsors"
   elements:
-    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains-variant-4.svg"}
+    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com", imageUrl: "jetbrains.svg"}
     - {name: "Amazon Web Services", description: "Amazon Web Services", link: "https://aws.amazon.com", imageUrl: "AmazonWebservices_Logo.svg"}
 
 - 

@@ -48,6 +48,7 @@ navigationLinks:
  #- {permalink: "/proposals/", text: "CFP"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/about/", text: "About"}
+ - {permalink: "/#partners", text: "Sponsors"}
  - {permalink: "/faqs/", text: "FAQ"}
  #- {permalink: "/volunteers/", text: "Volunteers"}
  #- {permalink: "/logistics/", text: "Logistics"}
