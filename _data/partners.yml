@@ -5,6 +5,11 @@
     - {name: "FreeCodeCamp", description: "FreeCodeCamp Hyderabad", link: "https://www.meetup.com/freecodecamp-hyderabad/", imageUrl: "freecodecamp_logo.svg"}
 
 - 
-  group: "Organizing Partners"
+  group: "Organizing Partner"
   elements:
     - {name: "Nebulae", description: "Nebulae - Intelligent Apps for Humans at Work", link: "http://bit.ly/2wj13CS", imageUrl: "nebulae_vector.svg"}
+
+- 
+  group: "Venue Partner"
+  elements: 
+    - {name: "IIIT Hyderabad", description: "International Institute of Information Technology, Hyderabad", link: "https://www.iiit.ac.in", imageUrl: "iiit-new.png"}
