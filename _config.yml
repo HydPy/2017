@@ -167,7 +167,8 @@ ticketsOffers:
   featured: true
   buyButtonLink: "https://in.explara.com/e/pyconf-hyderabad-2017/checkout"
   buyButtonText: "Buy Now"
-  additionalInfo: "<a href='/schedule/#2017-10-08' target='_blank'>Conference Ticket</a>"
+  additionalInfo: "<a href='/schedule/#2017-10-08' target='_blank'>Conference Ticket</a><br/><br/>
+                   Students Get 20% Discount - Apply Code <b>PYCONFSTUDENT2017</b>. Read the <a href='/faqs/' target='_blank'>FAQ</a> page for details.<br/><br/>"
   ticketContentList: ["HydPy Conf tickets", "", ""]
   validFrom: "2017-08-10T10:00"
   validThrough: "2017-10-05T23:59"

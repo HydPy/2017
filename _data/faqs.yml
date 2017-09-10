@@ -36,26 +36,31 @@
 
 -
   id: 8
+  question: "Is there a student discount?"
+  answer: "Yes, Students get a 20% discount on Conference(Day 2) ticket. Apply code <b>PYCONFSTUDENT2017</b> at the Checkout page. Valid ID card is necessary for availing discount."
+
+-
+  id: 9
   question: "I am a student and I purchased a ticket, can I still avail student discount?"
   answer: "No, the coupon has to be applied before purchasing of the ticket."
 
 -
-  id: 9
+  id: 10
   question: "I don't have student ID card, to get the student discount which ID card needs to be shown at the registration desk?"
   answer: "A college ID card from a recognised university is a must for availing student discount. We need to verify the same at the registration desk, else the difference will have to be paid at the registration desk for entry."
 
 -
-  id: 10
+  id: 11
   question: "I Want To Volunteer For The Conference. What Should I Do?"
   answer: "Currently we feel we have enough volunteers for the conference, please drop your name here, we will get in touch with you if required. Your help is much appreciated.
 "
 
 -
-  id: 11
+  id: 12
   question: "I am a Speaker/Volunteer At The Conference. Do I Need To Buy A Ticket?"
   answer: "Yes. At PyConf, everybody buys tickets. Even the event organizers buy tickets. Your ticket helps keep the event affordable for all."
 
 -
-  id: 12
+  id: 13
   question: "My Question Is Not Listed Here / I Am Still Unclear About A Few Things. Whom Should I Contact?"
   answer: "Please send an email to <a href='mailto:contact@hydpy.org'>contact@hydpy.org</a>."
