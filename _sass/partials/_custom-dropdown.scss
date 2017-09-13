@@ -1,0 +1,70 @@
+/* Custom Dropdown CSS */
+
+
+// Dropdown arrow/caret
+.caret {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  margin-left: 2px;
+  vertical-align: middle;
+  border-top:   $caret-width-base solid;
+  border-right: $caret-width-base solid transparent;
+  border-left:  $caret-width-base solid transparent;
+}
+
+
+
+//CSS3 media queries
+//larger than 767px
+@media (min-width: 767px) {
+	.dropdown {
+    position: relative;
+    display: inline-block;
+	}
+
+	.dropdown > li {
+	    padding-bottom: 20px;
+	    cursor: pointer;
+	}
+
+	/* Dropdown Content (Hidden by Default) */
+	.dropdown-content {
+	    display: none;
+	    position: absolute;
+	    background-color:rgba(255,255,255,0.9);
+	    color: #000;
+	    min-width: 230px;
+	    z-index: 1;
+	}
+
+	/* Links inside the dropdown */
+	.dropdown-content li {
+	    color: black;
+	    padding: 12px 16px;
+	    text-decoration: none;
+	    display: block;
+	}
+
+	.dropdown-content > li:hover {
+		background-color: #ECECED;
+	}
+	.dropdown:hover .dropdown-content {
+	    display: block;
+
+	}
+
+}
+
+//smaller than 767px
+@media (max-width: 767px){
+	
+	.dropdown > li {
+	    display: none;
+	}
+
+	.dropdown-content{
+		margin-top: -20px !important;
+	}
+
+}
