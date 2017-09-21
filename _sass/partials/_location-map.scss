@@ -36,3 +36,15 @@
     width: 100%;
     height: 700px;
 }
+
+//smaller than 767px
+@media (max-width: 767px){
+	
+	.canvas-map {
+		display:none;
+	}
+	.location-map{
+		padding: 0;
+	}
+	
+}
