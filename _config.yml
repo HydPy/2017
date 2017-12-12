@@ -77,6 +77,8 @@ heroButtons:
 # - {permalink: "/#tickets", text: "Buy tickets"}
  - {link: "https://github.com/HydPy/PyConf17Slides#pyconf-hyderabad-2017-slides", text: "Slides"}
  - {link: "https://photos.app.goo.gl/h3v8QlDji23sHym62", text: "Photos"}
+ - {link: "https://www.youtube.com/playlist?list=PL4jRm9g5TaAq-AvEFtrPle8t1yfgm6Wms", text: "Videos"}
+
 
 # About Block
 aboutTitle: "About PyConf Hyderabad"
