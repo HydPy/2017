@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "PyConf Hyderabad 2017"
 email: "contact@hydpy.org"
 description: "Hyderabad Python Conference 2017"
-baseurl: ""
+baseurl: "/2017"
 url: "http://pyconf.hydpy.org/"
 #permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
