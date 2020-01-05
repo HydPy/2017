@@ -12,7 +12,7 @@ commit_changes() {
   mkdir 2017
   cp -rf ../_site/* 2017/
   git add .
-  git commit -m "Travis build: $TRAVIS_BUILD_NUMBER"
+  git commit -m "Travis build: hydpyconf2017-$TRAVIS_BUILD_NUMBER"
 }
 
 push_files_to_github() {
