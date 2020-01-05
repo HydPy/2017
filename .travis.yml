@@ -1,0 +1,12 @@
+lang: ruby
+branches:
+  only:
+  - master
+before_script:
+- chmod +x deploy.sh
+script:
+- bundle exec jekyll build
+- "./deploy.sh"
+env:
+  global:
+    secure: iN+U8pm3mFqhY60maHs6mfdBKMpiKsyL42wenMZXzzSJxJFiH+lcsHITNPFDODT5hcTUS8qBnriNzbIoP9WnxOk6HfDvQQWK5rWvjrpAOfbGweF7EFP0FeeFGf7nJQi59jrkpFOSL0rqNPu+yjS+FvFKpqrMBvdZyqqln87jvHlzurW1rXX4Z6bKjECH+sNjK0KqeZSIJ/wWJp5qTDKOSGOXXdkmmbZK64+EnqXnpZo8v26IjjWZTxcn6uvYw3a6dMSJIK0KpQANjTLEqvYCG2rtHH8buERGAddSrpf3MMgPdI56EUmCBjjMUxV4CY2UvrtA6bAUnKoC05mGNvRxNMkVBu+0G+uGZfJ0hiZ26DWFCeE9mF+dC89mjDt4IzRWOOXojsqW2v2e7kTbSmWBwfxyxthGkVXukHS/vP1+CcEDfQNArMaAgiriy+ojS+gAkRWDrCqOKUtzxGI5loVcopIvYearqfTlSMBcS3+zBBhQQtMb3iuHYhpVWwob9b8J55SUlLGh3Nx4i71QL4Apuc8ePMuknXEgDc1KjBmlqCDUtwhkEkcGHTWwvavDoGZ5ysNs/qGCANyr5GejpDq29XgWnOtsMPyG+JFdajecn79D6j2BLJ3JCH9zOesCCXbEbSGTk2DgAbtwQYCsc/Z+Ugmmgzha+sfffEcIlRcWCEE=
